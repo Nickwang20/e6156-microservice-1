@@ -1,6 +1,6 @@
 # E6156 - Topics in SW Engineering: Cloud Computing<br>First Example Microservice
 
-__Author:__ Donald F. Ferguson
+__Author:__ Yiming Wang
 
 ## Local Project Execution
 
@@ -23,7 +23,6 @@ PyCharm. There should be a terminal tab at the bottom of the PyCharm window.
 - In the terminal, type ```pip install -r requirements.txt``` This will install the necessary
 Python packages.
 
-  
 - You can now execute the application by using the ```run``` feature in PyCharm or directly
 from the terminal prompt line by typing ```python main.py```
 
@@ -84,7 +83,6 @@ The easiest way is to add to a [.gitignore file.](https://git-scm.com/docs/gitig
 
 
 - You have completed the first part of the initial assignment.
-
 
 
 
